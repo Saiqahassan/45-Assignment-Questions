@@ -1,8 +1,8 @@
 {
-  "name": "2.-personal-message",
+  "name": "8.-appearing-no.-8",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
